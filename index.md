@@ -9,3 +9,7 @@ hierarchical list of titles
 <h1> Titre h1 </h1>
 <div> Exemple de code pour un exercie sur gitHub.</div>
 ```
+
+- [x] hierarchical list of titles
+- [x] Add Images
+- [ ] Change the world
